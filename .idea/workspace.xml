@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e3babe1-5950-4b8e-8a16-5bff4d1b78af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/instagram_uploader.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="instagram_uploader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -319,7 +311,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460324953977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore .idea/*">
+      <created>1460325033958</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1460325033958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,7 +349,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore Gemfile.lock" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore Gemfile.lock" />
+    <MESSAGE value="add gitignore .idea/*" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore .idea/*" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
